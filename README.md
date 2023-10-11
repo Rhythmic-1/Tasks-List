@@ -35,5 +35,5 @@ To run the Todo List web app on your local machine, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/abdellatif-laghjaj/todo-list.git
+git clone https://github.com/Rhythmic-1/Tasks-List.git
 ```
