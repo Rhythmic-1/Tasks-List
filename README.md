@@ -18,7 +18,8 @@ You can check out the live demo of the Todo List web app [here](https://abdellat
 
 ## Screenshots
 
-![image](https://github.com/abdellatif-laghjaj/todo-list/assets/79521157/2bc510e2-5f2f-456b-acc2-31b8c8232d93)
+![image](![image](https://github.com/Rhythmic-1/Tasks-List/assets/87231338/841adecd-db53-4bbf-b035-09c9749a237e)
+)
 
 
 ## Technologies Used
