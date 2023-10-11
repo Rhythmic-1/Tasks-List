@@ -6,6 +6,7 @@
 Deploying a Web application to Render instance involves several steps. Here's a high-level overview of the process:
 
 **Deployment link:** [https://tasks-todo-list.onrender.com](https://tasks-todo-list.onrender.com)
+![image](https://github.com/Rhythmic-1/Tasks-List/assets/87231338/98b43d65-234f-4f9e-a8f9-b5063cdfdd82)
 
 1. **Sign Up on Render:**
    - If you don't have a Render account, sign up at Render.
@@ -52,6 +53,7 @@ Remember that this is a simplified overview, and the exact steps may vary depend
 Deploying a Simple Todo List Web application to a Vercel instance involves several steps. Here's a general guide on how to do it:
 
 **Deployment link:** [https://tasks-list-sooty.vercel.app/](https://tasks-list-sooty.vercel.app/)
+![image](https://github.com/Rhythmic-1/Tasks-List/assets/87231338/98b43d65-234f-4f9e-a8f9-b5063cdfdd82)
 
 1. **Sign Up for Vercel:**
    - If you don't already have a Vercel account, sign up at Vercel's website.
